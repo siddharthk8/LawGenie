@@ -1,6 +1,6 @@
-# LawGenie AI
+# LawGenie
 
-LawGenie AI is a full-stack legal assistant platform for Indian law research and document-aware Q&A.
+LawGenie is a full-stack legal assistant platform for Indian law research and document-aware Q&A.
 It combines a FastAPI backend for retrieval, training, and chat sessions with a React + Vite frontend for an interactive user experience.
 
 ## Features
